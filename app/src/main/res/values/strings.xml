@@ -1,0 +1,12 @@
+<resources>
+    <string name="app_name">Camara</string>
+    <string name="header_camara">CAMARA</string>
+    <string name="hint_nombre_foto">Nombre</string>
+    <string name="label_nombre_foto_campo">Nombre Foto:</string>
+    <string name="btn_hacer_foto">HACER FOTO</string>
+    <string name="btn_aceptar">ACEPTAR</string>
+    <string name="desc_vista_foto">Vista de la foto</string>
+    <string name="titulo_segunda_activity">Actividad Secundaria</string>
+    <string name="label_nombre_foto_recibido">Nombre de la foto: %1$s</string>
+    <string name="msg_ingrese_nombre">Por favor ingrese el nombre de la foto</string>
+</resources>
